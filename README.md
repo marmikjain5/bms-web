@@ -38,22 +38,22 @@ Open in browser:
 
 http://localhost:3000
 
-📂 Project Structure (High-Level)
+# 📂 Project Structure (High-Level)
 /src
-  /components   → Reusable UI components
-  /pages        → Application pages
-  /assets       → Images and media
-  /styles       → Tailwind / CSS
+  /components   → Reusable UI components\
+  /pages        → Application pages\
+  /assets       → Images and media\
+  /styles       → Tailwind / CSS\
 /public         → Static files
 
-🤝 Contribution Workflow
+# 🤝 Contribution Workflow
 Fork the repository\
 Create a new branch\
 Make changes\
 Commit updates\
 Submit a Pull Request\
-💡 Additional Ideas & Innovations (Mandatory)\
-🧠 AI-powered chatbot for student support\
+# 💡 Additional Ideas & Innovations \
+🧠 AI-powered chatbot for student support
 📊 Personalized student dashboard\
 🗓️ Smart timetable generator\
 📡 Real-time notifications system\
@@ -62,9 +62,9 @@ Submit a Pull Request\
 📚 Integrated learning management system\
 📍 Interactive campus navigation map\
 🧾 Online fee payment integration\
-🌍 Multi-language support\
+🌍 Multi-language support
 # 🔮 Future Scope
 Chatbot - voice enabled + multilingual\
 Interactive 3D Campus Tour\
-Build your "Placement Planner" according to their respective years.\
+Build your "Placement Planner" according to their respective years.
 
