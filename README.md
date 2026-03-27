@@ -8,10 +8,10 @@ This project is a modern, interactive, and scalable university website designed 
 Frontend: HTML5, CSS3, JavaScript (ES6+)
 Framework: Next.js / React
 Styling: Tailwind CSS
-Backend: Node.js (optional integration)
+Backend: Node.js 
 3D & Animations: Three.js
 Version Control: Git & GitHub
-Deployment: Vercel / Netlify
+Deployment: Local
 🧠 Key Features
 ✨ Modern, responsive UI with smooth animations
 🏫 Complete university portal structure
