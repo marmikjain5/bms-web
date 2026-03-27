@@ -1,6 +1,6 @@
 
 # 🚀 BMS College University Website
-# 📌 #Project Overview
+# 📌 Project Overview
 
 This project is a modern, interactive, and scalable university website designed to replicate a real-world university portal experience. It emphasizes high-quality UI/UX, responsiveness, and performance, delivering a futuristic and user-friendly interface.
 
@@ -63,7 +63,7 @@ Submit a Pull Request\
 📍 Interactive campus navigation map\
 🧾 Online fee payment integration\
 🌍 Multi-language support\
-🔮 Future Scope\
+# 🔮 Future Scope
 Chatbot - voice enabled + multilingual\
 Interactive 3D Campus Tour\
 Build your "Placement Planner" according to their respective years.\
